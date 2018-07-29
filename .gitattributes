@@ -57,7 +57,53 @@
 *.gz filter=lfs diff=lfs merge=lfs -text
 *.rar filter=lfs diff=lfs merge=lfs -text
 *.tar filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 412ef59... Revert "Added .exe to lfs"
+=======
+>>>>>>> parent of 412ef59... Revert "Added .exe to lfs"
+=======
+>>>>>>> parent of 412ef59... Revert "Added .exe to lfs"
+=======
+>>>>>>> parent of 526ccd0... Revert "Added .exe to lfs"
 *.exe filter=lfs diff=lfs merge=lfs -text
+*unitypackage filter=lfs diff=lfs merge=lfs -text
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
+C:/Users/gibar/Desktop/KingPong2D/KingPong2D_Data* filter=lfs diff=lfs merge=lfs -text
+*.resS filter=lfs diff=lfs merge=lfs -text
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of c632782... Added .exe to lfs
+=======
+>>>>>>> parent of c632782... Added .exe to lfs
+=======
+>>>>>>> parent of c632782... Added .exe to lfs
+=======
+>>>>>>> parent of c632782... Added .exe to lfs
+=======
+>>>>>>> parent of c632782... Added .exe to lfs
+<<<<<<< HEAD
+=======
+>>>>>>> parent of c632782... Added .exe to lfs
+=======
+>>>>>>> parent of 412ef59... Revert "Added .exe to lfs"
+=======
+>>>>>>> parent of 412ef59... Revert "Added .exe to lfs"
+=======
+>>>>>>> parent of 412ef59... Revert "Added .exe to lfs"
+=======
+>>>>>>> parent of 526ccd0... Revert "Added .exe to lfs"
 *.gitignore filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.meta filter=lfs diff=lfs merge=lfs -text
@@ -78,10 +124,10 @@
 *.info filter=lfs diff=lfs merge=lfs -text
 *.config filter=lfs diff=lfs merge=lfs -text
 *.assets filter=lfs diff=lfs merge=lfs -text
-*.resS filter=lfs diff=lfs merge=lfs -text
 *.resource filter=lfs diff=lfs merge=lfs -text
 *.aspx filter=lfs diff=lfs merge=lfs -text
 *.browser filter=lfs diff=lfs merge=lfs -text
 *.map filter=lfs diff=lfs merge=lfs -text
 *.ini filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+KingPong2D.unitypackage filter=lfs diff=lfs merge=lfs -text
